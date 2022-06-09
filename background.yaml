@@ -1,0 +1,6 @@
+app:
+  name: background
+  group: backend
+  container:
+    image: nginx
+    port: 80
