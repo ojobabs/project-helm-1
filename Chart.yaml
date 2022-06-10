@@ -1,0 +1,9 @@
+apiVersion: v2
+name: Api-background
+description: A microservice containing Api and background app with a ingress server.
+
+type: application
+
+
+version: 0.1.0
+appVersion: "1.16.0"
